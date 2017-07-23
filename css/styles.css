@@ -95,3 +95,7 @@ a {
 .project img {
   max-width: 100%;
 }
+
+.img-circle {
+    border-radius: 50%;
+}
